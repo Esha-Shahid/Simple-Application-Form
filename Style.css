@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+fieldset {
+    background-color: rgb(199, 239, 255);
+    height: 630px;
+    width: 360px;
+    font-family: sans-serif;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: 100px;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(9, 9, 185);
+    font-family: sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 100;
+
+}
+
+button {
+    background-color: rgb(9, 9, 185);
+    color: aliceblue;
+    margin: 10px;
+    margin-left: 240px;
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+}
